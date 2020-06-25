@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1592984837 source:c:\users\ahed bahri\desktop\covid-c\menu\main.c
+	<tchar.h>
+	<stdio.h>
+	<windows.h>
+	<dos.h>
+	<string.h>
+	<stdbool.h>
+	"functions.h"
+
+1592985489 c:\users\ahed bahri\desktop\covid-c\menu\functions.h
+	<string.h>
+	<string.h>
+
