@@ -1,5 +1,6 @@
 # COVID-19-Projet-C
 Projet C créer pendant la pandémie CORONA >> COVID-19
+liste simplement chainee
 ![1](https://user-images.githubusercontent.com/17449630/85723743-72558b00-b6eb-11ea-9178-002dac083d5f.jpg)
 ![2](https://user-images.githubusercontent.com/17449630/85723746-7386b800-b6eb-11ea-9c07-dde8ad90ea27.jpg)
 ![3](https://user-images.githubusercontent.com/17449630/85723749-7386b800-b6eb-11ea-903f-d53741da266c.jpg)
